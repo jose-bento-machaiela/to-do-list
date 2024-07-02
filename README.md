@@ -22,7 +22,7 @@ The application allows users to add, complete, delete, and search tasks. It was 
 
 
 ```
-    $ git clone https://
+    $ git clone https://github.com/jose-bento-machaiela/to-do-list.git
 ```
 
 2. Navigate to the Application diroctory:
