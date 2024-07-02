@@ -5,16 +5,16 @@ The application allows users to add, complete, delete, and search tasks. It was 
 
 ## Features
 
-    - Add Task
-    - Complete Task
-    - Delete Task
-    - Search Task
+- **Add Task**
+- **Complete Task**
+- **Delete Task**
+- **Search Task**
 
 ## Technologies Used
 
-    - React + Vite
-    - Javascript
-    - HTML and CSS
+- **React + Vite**
+- **Javascript**
+- **HTML and CSS**
 
 ## How to Run the Application
 
@@ -40,7 +40,6 @@ The application allows users to add, complete, delete, and search tasks. It was 
 
 4. Start the application
 
-bash
 ```
     $ npm run dev
 ```
